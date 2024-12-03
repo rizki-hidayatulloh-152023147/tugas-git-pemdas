@@ -80,4 +80,8 @@ for lokasi, data in data_panen.items():
 
 #commit ke 2
 #menambah branch baru
+<<<<<<< HEAD
 #branch main
+=======
+#branch baru
+>>>>>>> baru
