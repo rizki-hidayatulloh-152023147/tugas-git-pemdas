@@ -75,3 +75,7 @@ for lokasi, data in data_panen.items():
         print(f"Lokasi {nama} memerlukan perhatian khusus (Padi: {padi}, Jagung: {jagung})")
     else:
         print(f"Lokasi {nama} dalam kondisi baik (Padi: {padi}, Jagung: {jagung})")
+
+
+
+#commit ke 2
